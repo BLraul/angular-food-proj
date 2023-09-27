@@ -17,18 +17,12 @@ food!: Food;
     private foodService: FoodService,
     private cartService: CartService,
     private router: Router) { 
-    this.foodService.getAll().subscribe(allData => {
-      console.log("this.foods",allData)
-      if(!!allData){
-        this.foods = allData;
-        console.log("this.allData",this.foods)
-        this.activatedRoute.params.subscribe((params)=>{
-          if(params['id']){
-            this.food = this.foodService.getFoodById(params['id'], allData)
-          }
+      activatedRoute.params.subscribe((params) => {
+        if(params['id'])
+        foodService.getFoodById(params['id']).subscribe(serverFood => {
+          this.food = serverFood;
         });
-      }
-    });
+      })
    
   }
 
