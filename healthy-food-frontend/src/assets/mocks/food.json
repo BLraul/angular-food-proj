@@ -1,0 +1,124 @@
+
+ [
+    {
+      "id": 1,
+      "name": "Cherry Tomatoes",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/fruit.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 2,
+      "name": "Normal Tomatoes",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  true,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/fruit2.jpeg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 3,
+      "name": "Plums",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/fruit2.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 4,
+      "name": "Peaches",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/fruit3.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 5,
+      "name": "Apples",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/fruit4.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 6,
+      "name": "Pears",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/fruit5.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 7,
+      "name": "Apricots",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/fruit6.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 8,
+      "name": "Potatoes",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/vegetables.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 9,
+      "name": "Eggplants",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/vegetables2.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 10,
+      "name": "Cucumbers",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/vegetables3.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+},
+{
+      "id": 11,
+      "name": "Pepper Mix",
+      "price": 10,
+      "tags": ["FastFood", "Pizza", "Lunch"],
+      "favorite":  false,
+      "stars":  4.0,
+      "imageUrl": "assets/images/foods/vegetables4.jpg",
+      "origins": ["Romania"],
+      "deliveryTime": "40-50"
+}
+]
